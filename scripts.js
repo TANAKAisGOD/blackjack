@@ -1,4 +1,4 @@
-﻿var drawButton	= document.getElementById('draw');
+let drawButton	= document.getElementById('draw');
 var startButton	= document.getElementById('start');
 var duelButton	= document.getElementById('duel');
 var p	= document.getElementById('p');
